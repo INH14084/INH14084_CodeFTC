@@ -24,6 +24,8 @@ import java.util.Locale;
 
 // Ryan Was Here
 
+// Ryan was mostly okay
+
 public class Autonomous_Test extends LinearOpMode {
     HardwareMap robot   = new HardwareMap();
     ElapsedTime runtime = new ElapsedTime();
